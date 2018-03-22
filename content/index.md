@@ -1,6 +1,6 @@
 {
     "type": "captivate",
     "layout": "home",
-    "url": "\/sub",
+    "url": "\/",
     "description": ""
 }
